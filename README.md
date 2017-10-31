@@ -1,6 +1,10 @@
 Amazone S3 PHP Command line tool
 ----------
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/vc2sLTxDGVZTYPAjFfQvfnmy/arizawan/aiss3clientphp'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/vc2sLTxDGVZTYPAjFfQvfnmy/arizawan/aiss3clientphp.svg' />
+</a>
+
 -----------------------------------------------------------
 **Script	    :**	Command line Script to work with Amazone S3
 **Written by  :**	Ahmed Rizawan (ahm.rizawan@gmail.com) *2014 feb 10*
